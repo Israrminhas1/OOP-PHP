@@ -1,0 +1,25 @@
+<?php
+$message = array("123"=>"Registeration successful-email sent for verification",
+"124"=>"Server down",
+ "125"=>"Cannot Run This Query",
+ "126"=>"Email already exist",
+ "127"=>"Email Not Registered",
+ "128"=>"Email Not Verified",
+ "129"=>"Incorrect password",
+ "130"=>"Successfully login",
+ "131"=>"Email Already verified",
+ "132"=>"Email Verification Successfull",
+ "133"=>"pending for verification",
+ "134"=>"Reset password link has been sent",
+ "135"=>"You entered old password, Please enter new password",
+ "136"=>"Successfully updated password",
+ "137"=>"password did not match",
+ "138"=>"User Deleted Successfully",
+ "139"=>"User Updated Successfully",
+ "140"=>"Blog Created Successfully",
+ "141"=>"blog Deleted Successfully",
+ "142"=>"blog Updated Successfully",
+ "143"=>"Permission set Successfully",
+ "144"=>"Error Permissions"
+); 
+?>
